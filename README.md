@@ -1,6 +1,14 @@
 # Fake-News-Detection-using-Machine-Learning-NLP-
 The main objective is to detect the fake news, which is a classic text classification problem with a straight forward proposition. It is needed to build a model that can differentiate between “Real” news and “Fake” news
 
+![image](https://user-images.githubusercontent.com/76562485/132942121-c67c6bb9-2c42-46db-9270-fd6637cc5eb4.png)                                                  ![image](https://user-images.githubusercontent.com/76562485/132942130-0a3fbd49-b5a5-4a30-bb73-f8f063606e8f.png)
+
+
+![image](https://user-images.githubusercontent.com/76562485/132942159-90744ca0-fff6-4b4c-96f7-e8220b2c5bb9.png)                                                  ![image](https://user-images.githubusercontent.com/76562485/132942185-b22a04f6-a9cf-4076-93ec-57cb9ed89796.png)
+
+
+
+
 ### ABSTRACT
 This Project comes up with the applications of NLP (Natural Language Processing) techniques for detecting the 'fake news', that is, misleading news stories that comes from the non-reputable sources. Only by building a model based on a count vectorizer (using word tallies) or a (Term Frequency Inverse Document Frequency) tfidf  matrix, (word tallies relative to how often they’re used in other articles in your dataset)
 
