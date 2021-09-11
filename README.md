@@ -16,3 +16,9 @@ This Project comes up with the applications of NLP (Natural Language Processing)
 These days’ fake news is creating different issues from sarcastic articles to a fabricated news and plan government propaganda in some outlets. Fake news and lack of trust in the media are growing problems with huge ramifications in our society. Obviously, a purposely misleading story is “fake news “  but lately blathering social media’s discourse is changing its definition. Some of them now use the term to dismiss the facts counter to their preferred viewpoints.
 
 The importance of disinformation within American political discourse was the subject of weighty attention , particularly following the American president election . The term 'fake news' became common parlance for the issue, particularly to describe factually incorrect and misleading articles published mostly for the purpose of making money through page views. In this paper,it is  seeked to produce a model that can accurately predict the likelihood that a given article is fake news.
+
+### Dataset link :
+                   https://www.kaggle.com/c/fake-news/data?select=train.csv
+                   
+### Conclusion  :  
+                 In the 21st century,  the majority of  the  tasks are  done online. Newspapers that  were earlier  preferred as hard-copies are now  being substituted by applications like Facebook, Twitter, and news articles to be read online. Whatsapp’s forwards are also a major source. Thus, in order to curb the phenomenon, we have developed our Fake news Detection system that takes input from the user and classify it to be true or fake. To implement this, various NLP and Machine Learning Techniques have to be used. The model is trained using an appropriate dataset and performance evaluation is also done using various performance measures.                  
